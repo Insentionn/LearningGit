@@ -1,1 +1,0 @@
-print("mama im a criminal ")
